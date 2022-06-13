@@ -49,7 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>sample-codebuild</finalName>
+		<finalName>springboot-docker-ecs</finalName>
 	</build>
 
 </project>

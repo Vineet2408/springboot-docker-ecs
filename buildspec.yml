@@ -42,4 +42,4 @@ phases:
 artifacts:
   files:
     - imagedefinition.json
-    - target/sample-codebuild.jar
+    - target/springboot-docker-ecs.jar

@@ -1,4 +1,4 @@
 FROM openjdk:11
 EXPOSE 8080
-ADD target/sample-codebuild.jar sample-codebuild.jar
-ENTRYPOINT ["java","-jar","/sample-codebuild.jar"]
+ADD target/springboot-docker-ecs.jar springboot-docker-ecs.jar
+ENTRYPOINT ["java","-jar","/springboot-docker-ecs.jar"]
